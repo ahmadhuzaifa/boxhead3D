@@ -1,6 +1,6 @@
 # Box Head 3D
 
-Thanks for checking out my project!
+Thank you for checking out my project!
 
 This is a fully functional first person shooter game made in Unity and programmed in C#Script. This project is still under development.
 
