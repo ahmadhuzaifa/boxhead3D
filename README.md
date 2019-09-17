@@ -2,8 +2,7 @@
 
 Thank you for checking out my project!
 
-This is a fully functional first person shooter game made in Unity and programmed in C#Script. This project is still under development.
-
+This is a fully functional first person shooter game made in Unity and programmed in C#Script. 
 
 Visit the [images](https://github.com/ahmadhuzaifa/boxhead3D/tree/master/Images) page to view images and videos of this project! 
 
